@@ -1,1 +1,1 @@
-web: npm run wishb
+web: npm start
